@@ -6,3 +6,8 @@ h1 {
 h3 {
     color: blue;
 }
+
+.lightImage {
+    height: auto;
+    width: 500px;
+}
